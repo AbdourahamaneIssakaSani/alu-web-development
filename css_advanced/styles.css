@@ -235,6 +235,11 @@ main {
   line-height: 24px;
   color: rgba(7, 22, 41, 0.501584);
 }
+.video-card .play {
+  position: relative;
+  top: -23%;
+  left: 33%;
+}
 .video-card .author {
   display: flex;
   align-items: center;
